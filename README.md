@@ -6,12 +6,11 @@
 <h3 align="center">Self-taught researcher in Backend and Game Development. 🏳️‍⚧️</h3>
 
 <p align="center">
-    <strong><a href="https://x.com/NanaNanchin">Twitter</a> |</strong>
-    <strong><a href="https://x.com/NanaNanchin">Twitter</a> |</strong>
+    <strong><a href="https://x.com/NanaNanchin">Twitter</a></strong>
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/Lunaena"><img src="https://github-readme-stats.vercel.app/api?username=Lunaena&hide_border=true&show_icons=true&theme=dark">
+    <a href="https://github.com/lunaprata"><img src="https://github-readme-stats.vercel.app/api?username=lunaprata&hide_border=true&show_icons=true&theme=dark">
 </p>
 
 <!-- Thanks yuna0x0 | https://github.com/yuna0x0/yuna0x0 -->
